@@ -1,0 +1,11 @@
+p {color: green;font-family: fantasy; font-size: larger;}
+h1 {color: green;font-family: fantasy;font-size: x-large;}
+h2 {color: green;font-family: fantasy;font-size: xx-large;}
+ol {color: indigo;font-family: fantasy;font-size: small;}
+body {
+    background: url(img/fondo.jpg) no-repeat center center fixed;
+    background-size: cover;
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    -o-background-size: cover;
+}
